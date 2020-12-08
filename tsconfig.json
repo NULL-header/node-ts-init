@@ -7,7 +7,7 @@
     "skipLibCheck": true,
     "moduleResolution": "node",
     "lib": ["ES6", "DOM"],
-    "types": ["node"],
+    "types": ["node","jest"],
     "typeRoots": ["node_modules/@types","src/@types"],
     "experimentalDecorators": true,
     "removeComments": true,
